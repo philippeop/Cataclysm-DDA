@@ -715,7 +715,7 @@ void game::setup()
 
     set_zoom( get_option<int>( "DEFAULT_ZOOM_LEVEL" ) );
     set_overmap_zoom( get_option<int>( "DEFAULT_OVERMAP_ZOOM_LEVEL" ) );
-    // back to menu for save loading, new game etc
+    // back to menu for save loading, new game etc asd
 }
 
 bool game::has_gametype() const
